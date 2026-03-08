@@ -1,25 +1,69 @@
-# 💫 About Me:
+# 👋 Hi, I'm Subham Patra
 
-🔭 *I’m working on:* <br>C++ DSA and Web Development
+💻 Computer Science Student at Chandigarh University  
+🚀 Aspiring Full Stack Developer  
+🌐 Passionate about building modern web applications and solving real-world problems with code.
 
-🤝 *I’m looking to collaborate on:* <br>Full-Stack Web projects, Python-based projects
+---
 
-🌱 *I’m currently learning:* <br>Artificial Intelligence and Machine Learning
+# 🌐 Portfolio
+🔗 https://portfolio-bice-beta-16.vercel.app
 
+---
 
-## 💻 Tech Stack
+# 💫 About Me
 
-<div display="flex">    
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/C-FF9A00?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    <!-- <img src="" alt=""/> -->
+🔭 I’m currently working on  
+C++ DSA and Full Stack Web Development
+
+🤝 I’m looking to collaborate on  
+Full-Stack Web Projects and Python-based applications
+
+🌱 I’m currently learning  
+Artificial Intelligence, Machine Learning, and Backend Development
+
+---
+
+# 💻 Tech Stack
+
+<div>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF9A00?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
 
+---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+### 🤖 Ghost AI Voice Assistant
+AI-powered voice assistant built with Python that can open applications, search the web, give weather updates, and respond to voice commands.
+
+🔗 Repository  
+https://github.com/Subhampatra989/Ghost
+
+---
+
+### 🌐 Developer Portfolio
+Modern portfolio website built using React, Tailwind CSS, and Vite with smooth animations and responsive design.
+
+🔗 Live Website  
+https://portfolio-bice-beta-16.vercel.app
+
+---
+
+# 📊 GitHub Stats
 
 ![Subhampatra989's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhampatra989&show_icons=true&theme=radical)
 
@@ -27,19 +71,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhampatra989&layout=compact&theme=radical)
 
+---
 
-## 🌐 Let's Connect
+# 🌐 Connect With Me
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/subham-patra-478931280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  <a href="https://www.instagram.com/subhampatra989/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a> 
-  
+<div>
+
+<a href="https://www.linkedin.com/in/subham-patra-478931280/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/subhampatra989/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
-<br>
-Feel free to check out my repositories and let's connect if you have any questions or just want to chat!
 
 ---
+
+⭐ Feel free to explore my repositories and connect with me!
